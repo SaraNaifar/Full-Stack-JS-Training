@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>My test page</title>
+</head>
+<body>
+	<p>This is my form</p>
+	<form action="form.html" method="GET">
+		<div>
+			<label for="name">First Name:</label>
+			<input type="text" id="name" name="user_name"  minlength="2"required>
+		</div>
+		<div>
+			<label for="name">Last Name:</label>
+			<input type="text"  minlength="2" required>
+
+		</div>
+		<div>
+			<label for="tel">Mobile number:</label>
+			<input type="Mobile" name="description" id="tel" ></input>
+		</div>
+
+		<div>
+			<label for="username">Username:</label>
+			<input type="text" id="username" name="username" required>
+		</div>
+		<div>
+			<label for="pwd">Password:</label>
+			<input type="Password" id="pwd" name="pwd" minlength="8" maxlength="20" required>
+		</div>
+		<div>
+			<label for="birth">Birthday:</label>
+			<input type="date" id="birth" name="birthday" max="2005-01-01" >
+		</div>
+		<div>
+			<label for="description">Description:</label>
+			<textarea id="description" name="description" placeholder="Comment here" rows="10" cols="20"></textarea> 
+		</div>
+		<input type="submit" >
+	</div>
+</form>
+</body>
+</html>
