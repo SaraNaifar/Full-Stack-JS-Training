@@ -1,0 +1,58 @@
+body{
+	background-color: #ff4d4d;
+}
+.qoutediv{
+	background-color: white;
+}
+main{
+	width: 700px;
+	height: 380px;
+	margin: 0 auto;
+	position: relative;
+
+}
+footer{
+	text-align: center;
+	color:white;
+}
+.myfonts{
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+}
+i{
+	color:#ff4d4d ;
+}
+button{
+	float: right;
+
+	background-color:#ff4d4d; /* Green */
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+.myquote{
+	position: relative;
+	left: 50px;
+	top: 13px;
+}
+.displayquote{
+	text-align: center;
+	font-size: 49px;
+	font-family: "Times New Roman", Georgia, Serif;
+	color:#ff4d4d;
+}
+.displayauthor{
+	padding-left:402px;
+	color:#ff4d4d;
+	font-size: 23px;
+}
