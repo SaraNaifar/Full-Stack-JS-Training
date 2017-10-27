@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"target\tAttr"
+			],
+			[
+				"rand",
+				"randomquote"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"leng",
+				"length\t: int Function"
+			],
+			[
+				"len",
+				"length\t: int Function"
+			],
+			[
+				"hea",
+				"headlines"
+			],
+			[
+				"sq",
+				"square_number"
+			],
+			[
+				"news",
+				"newstr"
+			],
+			[
+				"le",
+				"length\t: int Function"
+			],
+			[
+				"str",
+				"stringList"
+			],
+			[
+				"goo",
+				"goodstring"
+			],
+			[
+				"sear",
+				"searchBad"
+			],
+			[
+				"new",
+				"newstr"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"pr",
+				"prompt\t( message?: DOMString, default?: DOMString ): DOMString Window"
+			],
+			[
+				"bill",
+				"bill3"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"mb",
+				"mb-4 \tBootstrap 4 Class"
+			],
+			[
+				"cir",
+				"rounded-circle \tBootstrap 4 Class"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 4 Class"
+			],
+			[
+				"jusr",
+				"justify-content-start \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tru",
+				"turn"
+			],
+			[
+				"Ma",
+				"Math_floor\t( x: number ): number Math"
+			],
+			[
+				"delete",
+				"deleteBtn"
+			],
+			[
+				"T",
+				"textContent"
+			],
+			[
+				"list",
+				"listElt"
+			],
+			[
+				"input",
+				"inputElt"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"p",
+				"Phone"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"PA",
+				"padding-bottom"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"colo",
+				"lighting-color"
+			],
+			[
+				"back-gr",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"My",
+				"MyFontHeader"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"n",
+				"number"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "rein",
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/Build a Random Quote Machine"
+	],
+	"file_history":
+	[
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/mini_project_image_gallery/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/mini_project_image_gallery/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/Build a Random Quote Machine/script.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/mini_project_image_gallery/main.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/Build a Random Quote Machine/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/Build a Random Quote Machine/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/Build a Random Quote Machine/scripts/script.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/scriptSquare.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/Build a Random Quote Machine/test.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/GuessNumber/script.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/projet8_portfolio/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/1_9_javascript_beginners_hackathon_part2/1_9_javascript_beginners_hackathon_part2/main.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/1_9_javascript_beginners_hackathon_part1/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/1_9_javascript_beginners_hackathon_part1/main.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/1_9_javascript_beginners_hackathon_part2/1_9_javascript_beginners_hackathon_part2/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/1_8_javascript_exercises/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/1_8_javascript_exercises/main.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/projet8_portfolio/styles/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/projet8_portfolio/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/projet8_portfolio/w3.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/GuessNumber/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/shopping-list/script.js",
+		"/C/Users/ASUS/Desktop/jquery-3.2.1.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/shopping-list/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/shopping-list/index",
+		"/C/Users/ASUS/Desktop/FullStackJS/JavaScript/script.js",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/projet7_mockup/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/projet7_mockup/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project2_page_of_content/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project2_page_of_content/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project3_tribute_page/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project6-Assessment_community_website/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project6-Assessment_community_website/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project4_Mozilla_splash_page/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project6-Assessment_community_website/index",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project5_Forms/test.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project5_Forms/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project5_Forms/bhjj.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/project3/Example_Link",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/Build a tribute page/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/Build a tribute page/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/2 structuring a page content/index.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/2 structuring a page content/style.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/styles.css",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/letter.html",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/css_letter",
+		"/C/Users/ASUS/Desktop/FullStackJS/HTML&CSS/FirstHTML.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"randomIndex",
+			"item",
+			"-->\n",
+			" ",
+			"<a href=\"#\"><i class=\"fa fa-twitter-square  fa-4x\" aria-hidden=\"true\"></i></a>",
+			";\n",
+			"areEqualArrays",
+			"subStr",
+			");\n",
+			"h1",
+			"my",
+			"li",
+			"          <li><a href=\"https://github.com/SaraNaifar\"><i class=\"fa fa-github\"></i></a></li>\n",
+			"js",
+			"col-lg-2 ",
+			"var listGuess = document.querySelector('.listGuesses');",
+			"p",
+			";\n",
+			"191px",
+			"a ",
+			"a",
+			";\n",
+			"focus",
+			"outline",
+			"aside",
+			"h1",
+			"2",
+			"acronym",
+			"EM",
+			"dd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "GMC.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
